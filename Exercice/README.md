@@ -9,5 +9,5 @@ NB: Au cas où, il faut changer python avec la version de votre python, exemplem
 python3 manage.py migrate
 
 ** Voici l'identifiant et le mot de passe
-- Identifiant : test
+- Identifiant : Test
 - mot de passe : c1Test*A,
