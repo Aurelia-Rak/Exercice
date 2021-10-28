@@ -1,5 +1,5 @@
 # Exercice
-Le programme a été réalisée avec Django. 
+Le programme a été réalisée avec Django de python. J'y ai combiné un peu de css et de javascript. 
 Pour lancer le programme, il faut lancer les instructions suivantes :
 python manage.py migrate
 python manage.py runserver
